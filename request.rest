@@ -1,0 +1,41 @@
+POST http://localhost:3003/user/signup
+Content-Type: application/json
+
+{
+    "name":"Eric Fe",
+    "email":"ericha7@gmail.com",
+    "password":"cheirosoelindo"
+}
+###
+POST http://localhost:3003/user/login
+Content-Type: application/json
+
+{
+    "email":"ericuchiha7@gmail.com",
+    "password":"cheirosoelindo"
+}
+###
+
+POST http://localhost:3003/post/create
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImY3MDgyMDk0LTI3NjYtNDQ4My04ZTkwLTk5MmY0NDU2NDczZSIsImlhdCI6MTY1NzM4Mzg4OSwiZXhwIjoxNjU3NDI3MDg5fQ.ulnAcrcZqU83DHX0HmXY97nyhJmUUGnO8xpIx05g6UY
+Content-Type: application/json
+
+{
+    "photo":"https://images.pexels.com/photos/12568038/pexels-photo-12568038.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load",
+    "description":"Victor e Leo",
+    "type":"normal"
+}
+
+###
+
+GET  http://localhost:3003/post/6a3ed038-93a1-4330-9d09-63e7150ac1f3
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQwMzY0NjA0LTExZGQtNDgyOS1hMmJmLWRjY2M1ZTViZGM4YiIsImlhdCI6MTY1NzM5OTMyOSwiZXhwIjoxNjU3NDQyNTI5fQ.ATy28bj4odY0nVFkvKCqw9LTzhErQ1koTCImbPZA54Y
+
+###
+POST http://localhost:3003/friendship/create
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQyYTU0ZjY4LTc0NTItNDVmYS04NzhkLTcyZjZjOTYwNmNjMyIsImlhdCI6MTY1NzQ4Mzk1NywiZXhwIjoxNjU3NTI3MTU3fQ.5nMnyg9A9haTdo90TuYK0Zxte0ORq8xItFaWq-LbPXM
+Content-Type: application/json
+
+{
+    "id_add":"ad626ce7-d065-462a-8250-041cce01d5f5"
+}
