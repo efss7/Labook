@@ -36,6 +36,9 @@
  <h2 id="tecnologia">🛠 Tecnologia</h2>
  
 - [TypeScript](https://www.typescriptlang.org/)
+- [NodeJS](https://nodejs.org/en/docs/)
+- [Jest](https://jestjs.io/pt-BR/docs/api)
+- [MySql](https://dev.mysql.com/doc/)
 
 <h2 id="desenvolvedora">👩‍💻 Desenvolvedor</h2>
 <table>         
