@@ -5,7 +5,7 @@
 <a href="#orientacoes">Orientações</a> |
 <a href="#features">Features</a> |
 <a href="#tecnologia">Tecnologia</a> |
-<a href="#desenvolvedora">Desenvolvedora</a>
+<a href="#desenvolvedor">Desenvolvedor</a>
 </p>
 
 <h1 id="sobre">📕 Projeto Labook</h1>
@@ -14,7 +14,7 @@
 
 <h2 id="link">🔗 Link API: Link da documentação no Postman abaixo. </h2>
 
-<a href="LinkdoSurge">Labook</a>
+<a href="LinkdoPostman">Labook</a>
 
 <h2 id="orientacoes">🚨 Orientações para acesso</h2>
 
@@ -40,7 +40,7 @@
 - [Jest](https://jestjs.io/pt-BR/docs/api)
 - [MySql](https://dev.mysql.com/doc/)
 
-<h2 id="desenvolvedora">👩‍💻 Desenvolvedor</h2>
+<h2 id="desenvolvedor">👩‍💻 Desenvolvedor</h2>
 <table>         
 <td><a href="https://github.com/efss7"><img style="border-radius: 50%;" src="https://github.com/efss7.png" width="100px;" alt="Profile Photo"/><br /><sub><b>Eric Felipe</b></sub></a><br /> 
 </table>
