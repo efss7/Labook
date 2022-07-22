@@ -14,7 +14,7 @@
 
 <h2 id="link">🔗 Link API: Link da documentação no Postman abaixo. </h2>
 
-<a href="LinkdoPostman">Labook</a>
+<a href="https://documenter.getpostman.com/view/20351432/UzJQotmL">Labook</a>
 
 <h2 id="orientacoes">🚨 Orientações para acesso</h2>
 
