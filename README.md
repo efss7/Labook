@@ -32,6 +32,9 @@
 
 🔍 Buscar um post por id
 - [x] Ao passar o id de um post, você deve obter as informações a respeito daquele post.
+
+🤝🏻 Criar amizade
+- [x] Criar uma amizade é simples: basta receber o token de autenticação junto com o Id do usuário com o qual se deseja fazer amizade.
  
  <h2 id="tecnologia">🛠 Tecnologia</h2>
  
